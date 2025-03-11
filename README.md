@@ -4,10 +4,10 @@ Este projeto implementa um sistema simples para simular a reprodução e classif
 
 <h2>Conceitos Utilizados</h2>
 
-Herança e polimorfismo para modelar diferentes tipos de mídia.
+Herança e polimorfismo.
 
-Manipulação de objetos para armazenar informações sobre músicas e podcasts.
+Manipulação de objetos para armazenar informações.
 
-Estruturas de controle para definir classificações com base em reproduções e curtidas.
+Estruturas de controle para definir classificações com base em atributos.
 
 Saída de dados no console para exibir mensagens sobre as interações com as classes.
