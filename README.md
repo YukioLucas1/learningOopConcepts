@@ -10,4 +10,4 @@ Manipulação de objetos para armazenar informações sobre músicas e podcasts.
 
 Estruturas de controle para definir classificações com base em reproduções e curtidas.
 
-Saída de dados no console para exibir mensagens sobre as interações com os áudios.
+Saída de dados no console para exibir mensagens sobre as interações com as classes.
